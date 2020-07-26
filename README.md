@@ -1,4 +1,4 @@
-
+![bg][banner]
 
 🌱 I’m currently learning python
 
