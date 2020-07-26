@@ -1,4 +1,4 @@
-![bg][banner][github]
+[![bg][banner]][github]
 
 ###    Engineer | Energy Professional | Hobbyist (Beginner) Programmer
 
