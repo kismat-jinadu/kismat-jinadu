@@ -1,5 +1,7 @@
 ![bg][banner]
 
+###    Engineer | Energy Professional | Hobbyist (Beginner) Programmer
+
 🌱 I’m currently learning python
 
 👔 [linkedin][linkedin]
