@@ -1,6 +1,6 @@
 [![bg][banner]][github]
 
-###    Engineer | Energy Market Analyst | Hobbyist (Beginner) Programmer
+###    Engineer | Energy Professional/Analyst | Hobbyist (Beginner) Programmer
 
 🌱 I’m currently learning python
 
